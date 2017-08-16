@@ -9,8 +9,10 @@ if (keyLeft)
 	hspeed -= speed;
 if (keyRight)
 	hspeed += speed;
-if (keySpace)
-	instance_create_layer(x, y - 4, "Instances", obj_player_bullet);
+if (keyboard_check(vk_space) && alarm[0] == -1)
+{
+	alarm[0] = shootCooldown;
+}
 if (keyboard_check_pressed(ord("X")))
 	game_end();
 if (keyboard_check_pressed(ord("R")))

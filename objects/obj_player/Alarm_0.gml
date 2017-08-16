@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-vspeed -= acceleration;
+instance_create_layer(x, y - 16, "Instances", obj_player_bullet);

@@ -6,6 +6,7 @@ keyDown = keyboard_check(vk_down);
 keyLeft = keyboard_check(vk_left);
 keyRight = keyboard_check(vk_right);
 keySpace = keyboard_check(vk_space);
+shootCooldown = 20;
 
 speed = 3;
 friction = 0.1;
