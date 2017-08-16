@@ -1,8 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_speed = 0;
 
+vspeed = 1;
 
-randomize();
-
-image_index = choose(1, 2, 3, 4, 5);
+if (y == room_height)
+{
+	y = -64;
+}
