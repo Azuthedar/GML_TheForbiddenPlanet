@@ -18,7 +18,7 @@ if (keyRight)
 if (keySpace && alarm[0] == -1)
 {
 	instance_create_layer(x, y - 16, "Instances", obj_player_bullet);
-	alarm[0] = maxShootCooldown;
+	alarm[0] = shootCooldown;
 }
 if (keyboard_check_pressed(ord("X")))
 	game_end();

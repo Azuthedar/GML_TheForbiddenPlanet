@@ -3,8 +3,7 @@
 
 
 randomize();
-totalInterval = 1 * room_speed;
-interval = totalInterval;
+interval = choose(1, 2, 3) * room_speed;
 
 
 
@@ -12,5 +11,5 @@ if (alarm[0] == -1)
 {
 	instance_create_layer(x - 16, y + 28, "Instances", obj_enemy_bullet);
 	instance_create_layer(x + 16, y + 28, "Instances", obj_enemy_bullet);
-	alarm[0] = totalInterval;
+	alarm[0] = interval;
 }

@@ -2,4 +2,7 @@
 // You can write your code in this editor
 
 
-acceleration = 8;
+spd = 5;
+maxSpeed = 10;
+
+acceleration = spd / maxSpeed;
