@@ -1,17 +1,24 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+keyUp = keyboard_check(vk_up);
+keyDown = keyboard_check(vk_down);
+keyLeft = keyboard_check(vk_left);
+keyRight = keyboard_check(vk_right);
+keySpace = keyboard_check(vk_space);
+
 if (keyUp)
-	vspeed -= speed;
+	vspeed -= acceleration;
 if (keyDown)
-	vspeed += speed;
+	vspeed += acceleration;
 if (keyLeft)
-	hspeed -= speed;
+	hspeed -= acceleration;
 if (keyRight)
-	hspeed += speed;
-if (keyboard_check(vk_space) && alarm[0] == -1)
+	hspeed += acceleration;
+if (keySpace && alarm[0] == -1)
 {
-	alarm[0] = shootCooldown;
+	instance_create_layer(x, y - 16, "Instances", obj_player_bullet);
+	alarm[0] = maxShootCooldown;
 }
 if (keyboard_check_pressed(ord("X")))
 	game_end();
