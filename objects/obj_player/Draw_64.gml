@@ -4,5 +4,11 @@
 
 draw_set_valign(fa_center);
 draw_set_font(ft_lives);
-draw_text(4, 10, "Lives remaining: " + string(remainingLives));
+draw_text(10, 15, "Lives remaining: " + string(remainingLives));
+
+
+draw_set_font(ft_score);
+draw_set_halign(fa_center);
+draw_text(room_width / 2, room_height / 10, "SCORE: " + string(global.scr));
+draw_set_halign(fa_left);
 draw_set_valign(fa_left);

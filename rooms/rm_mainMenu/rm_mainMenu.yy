@@ -106,7 +106,8 @@
         "e3f8a6a0-0014-4659-bbb5-6fe569deaec4",
         "cca5b8be-a312-4808-ad9c-ca0550ecec3a",
         "55b2a4e8-2b73-4312-ae4f-94b86f62d1cc",
-        "37ac13d4-d40c-4201-8424-131686f3e6b9"
+        "37ac13d4-d40c-4201-8424-131686f3e6b9",
+        "5d804060-ed52-48d7-b294-a5856525f8a1"
     ],
     "layers": [
         {
@@ -2483,6 +2484,30 @@
                     "rotation": 0,
                     "scaleX": 1.07804883,
                     "scaleY": 1
+                },
+                {
+                    "id": "5d804060-ed52-48d7-b294-a5856525f8a1",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_55D68280",
+                    "x": 64,
+                    "y": 832,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_55D68280",
+                    "objId": "d2306fa1-4999-4326-b5b8-da15938ae497",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             ]
         },
@@ -2531,7 +2556,7 @@
         "mvc": "1.0",
         "PhysicsWorld": false,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 10,
+        "PhysicsWorldGravityY": 0,
         "PhysicsWorldPixToMeters": 0.1,
         "inheritPhysicsSettings": false
     },

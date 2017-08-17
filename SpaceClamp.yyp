@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "83f951c3-8459-417d-9baa-d75ff45327cb",
+            "Value": {
+                "id": "cb29a4f2-d594-4c29-a138-0d0f544d4ac2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/ft_menu_font\/ft_menu_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "8444e53f-5331-4bc7-8c76-2fd62b5d5eba",
             "Value": {
                 "id": "d144ddc3-15c2-47b7-a17b-7cc3aaea014b",
@@ -647,6 +666,25 @@
             }
         },
         {
+            "Key": "b55841c7-5fcb-42c5-8365-43a72da3bb72",
+            "Value": {
+                "id": "ce2cff21-ff5f-4e9b-bb4c-8a1d5da9c0b7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/ft_score\/ft_score.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "bb873341-441e-4ebd-ba6d-bd886925e9d4",
             "Value": {
                 "id": "d5034eeb-9d21-4357-9aa6-aeb271cb6085",
@@ -720,6 +758,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d2306fa1-4999-4326-b5b8-da15938ae497",
+            "Value": {
+                "id": "e952585a-cfb4-4abc-b77e-21ecc6b56807",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_button_start\/obj_button_start.yy",
+                "resourceType": "GMObject"
             }
         },
         {

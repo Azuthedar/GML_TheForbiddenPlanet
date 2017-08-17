@@ -8,4 +8,8 @@ if (hit == false)
 	hit = true;
 }
 if (life <= 0)
+{
 	instance_destroy();
+	global.scr += 10;
+	global.enemiesKilled += 1;
+}

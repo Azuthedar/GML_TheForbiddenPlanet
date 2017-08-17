@@ -5,7 +5,7 @@
 randomize();
 interval = choose(1, 2, 3) * room_speed;
 
-vspeed += spd;
+y += spd;
 
 if (alarm[0] == -1)
 {

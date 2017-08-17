@@ -10,5 +10,8 @@ if (flashing == false)
 	alarm[1] = 120;
 	alarm[2] = 30;
 }
-if (remainingLives == 0)
-	instance_destroy();
+if (remainingLives == 0 && instance_exists(obj_player))
+{
+	global.scr = global.scr * global.enemiesKilled;
+	instance_destroy();	
+}
