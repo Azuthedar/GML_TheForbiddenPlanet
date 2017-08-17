@@ -210,6 +210,44 @@
             }
         },
         {
+            "Key": "3b0c2af0-803b-4a49-90e7-42ed863d4489",
+            "Value": {
+                "id": "30eefc92-85b8-4501-97d6-d80a49539c19",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/The-Forbidden-Planet.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3ca66a53-0554-4ade-9f97-8ea0e94b4bc7",
+            "Value": {
+                "id": "2723f839-7c47-4cbb-8129-cf1181b2acdc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_menu\/obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e0f55ac-d2a9-48c7-b3a1-b56394b67b7e",
             "Value": {
                 "id": "17a2c02b-4e31-4469-8416-6b9c2f10ae2d",
@@ -226,6 +264,25 @@
                 ],
                 "resourcePath": "views\/3e0f55ac-d2a9-48c7-b3a1-b56394b67b7e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b40d000-c0eb-4752-a648-8ccf0d41bdbd",
+            "Value": {
+                "id": "67046fc1-f386-484f-97a2-d16650f4d394",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_main_menu\/spr_main_menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -362,6 +419,44 @@
             }
         },
         {
+            "Key": "8450381b-ed90-4702-bdc0-95e95dd7db10",
+            "Value": {
+                "id": "1fc9444f-ddd7-4e02-be52-9623da350f54",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_title\/spr_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "84cd75e9-bd2a-48aa-8857-2bb29d8a7aa9",
+            "Value": {
+                "id": "3cffdbad-8b09-4a5b-b15f-c4dc9563abca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_stars_menu\/obj_stars_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9248d981-1951-4b20-acb9-030d2171bff4",
             "Value": {
                 "id": "2f2b369d-d743-4414-9e9a-674e79177a77",
@@ -476,6 +571,25 @@
             }
         },
         {
+            "Key": "a6799bc0-2373-49fd-9915-950251387b5b",
+            "Value": {
+                "id": "a46e71dc-2b5f-42f0-a642-3a4055febefb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_title\/obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "f6a641a6-9968-4696-b543-ebbe001e7248",
@@ -492,6 +606,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "acb5d44d-2625-46e5-8d55-a969e5bb85f3",
+            "Value": {
+                "id": "00aea231-9754-4dcd-81bc-eea915dfec87",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_mainMenu\/rm_mainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -587,6 +720,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "db9bd47d-89fb-4946-ac73-e3d83f9f45f9",
+            "Value": {
+                "id": "808c2454-caac-41d1-a44c-915472c973ff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_button\/spr_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
