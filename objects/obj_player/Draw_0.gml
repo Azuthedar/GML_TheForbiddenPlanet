@@ -1,9 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-spd = 2;
-maxSpeed = 10;
-image_speed = 3;
-
-acceleration = spd / maxSpeed;
+draw_sprite_ext(spr_player, image_index, x, y, 1, 1, 0, c_white, alpha);
