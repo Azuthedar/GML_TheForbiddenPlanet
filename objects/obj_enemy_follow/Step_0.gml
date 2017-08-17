@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-speed = 3;
-image_speed = 7;
-life = 40;
+direction = point_direction(x, y, obj_player.x, obj_player.y);
