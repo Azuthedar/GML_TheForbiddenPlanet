@@ -3,6 +3,6 @@
 isPressed = false;
 if (alarm[0] == -1)
 {
-	image_blend = c_lime;
+	image_blend = c_teal;
 	alarm[0] = 1 * room_speed;
 }
