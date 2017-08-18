@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "3b7f97eb-5158-4b79-a3ae-8310903c98d0",
+            "Value": {
+                "id": "e4150ee0-c032-470e-96c7-8b50cb102494",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_control\/obj_control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ca66a53-0554-4ade-9f97-8ea0e94b4bc7",
             "Value": {
                 "id": "2723f839-7c47-4cbb-8129-cf1181b2acdc",
@@ -780,6 +799,25 @@
             }
         },
         {
+            "Key": "da98a8f9-1dc8-4bac-b07b-9f91d4027664",
+            "Value": {
+                "id": "7d958f24-b23c-49dc-acfe-5ccd0f7b325d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_highScore\/rm_highScore.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "db9bd47d-89fb-4946-ac73-e3d83f9f45f9",
             "Value": {
                 "id": "808c2454-caac-41d1-a44c-915472c973ff",
@@ -833,6 +871,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_enemy_bullet\/obj_enemy_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e680d509-5659-4c09-9d35-4d003c75c863",
+            "Value": {
+                "id": "61da4da0-2ad8-4ba2-af77-8d624fe0a89b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_button_HISCORE\/obj_button_HISCORE.yy",
                 "resourceType": "GMObject"
             }
         },
