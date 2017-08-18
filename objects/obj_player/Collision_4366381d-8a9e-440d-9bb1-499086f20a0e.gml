@@ -2,6 +2,7 @@
 // You can write your code in this editor
 if (flashing == false)
 {
+	audio_play_sound(sd_hit, 1, false);
 	instance_destroy(obj_enemy_bullet);
 	remainingLives--;
 	x = room_width / 2;
@@ -12,6 +13,7 @@ if (flashing == false)
 }
 if (remainingLives == 0 && instance_exists(obj_player))
 {
+	instance_create_layer(x, y, "Instances", obj_explosion);
 	global.scr = global.scr * global.enemiesKilled;
 	instance_destroy();
 }

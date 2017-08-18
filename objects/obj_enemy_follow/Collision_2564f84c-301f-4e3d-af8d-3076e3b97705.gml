@@ -7,6 +7,7 @@ if (hit == false)
 	life -= global.playerDamage;
 	if (place_meeting(x, y, obj_player_bullet))
 	{
+		audio_play_sound(sd_hit, 2, false);
 		with(other)
 			instance_destroy();
 	}
@@ -17,6 +18,7 @@ if (hit == false)
 }
 if (life <= 0)
 {
+	instance_create_layer(x, y, "Instances", obj_explosion);
 	audio_play_sound(sd_explosion, 1, false);
 	instance_destroy();
 	global.scr += 15;
