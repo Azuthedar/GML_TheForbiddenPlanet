@@ -19,6 +19,7 @@ if (keyRight)
 if (keySpace && alarm[0] == -1)
 {
 	instance_create_layer(x, y - 16, "Instances", obj_player_bullet);
+	audio_play_sound(sd_gunShot, 0, false);
 	alarm[0] = shootCooldown;
 }
 if (keyboard_check_pressed(ord("X")))

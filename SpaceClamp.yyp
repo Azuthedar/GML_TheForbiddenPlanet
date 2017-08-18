@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "0d26b707-d0aa-4ced-9368-eb245879ea7a",
+            "Value": {
+                "id": "d0487886-656e-404c-82f6-afc2c9938eef",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/sd_gunShot.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "0d6c7f54-8932-4e11-bb86-b7db2441ea5c",
             "Value": {
                 "id": "d4f604de-a07b-4967-b823-17a452ab2569",
@@ -248,6 +267,25 @@
             }
         },
         {
+            "Key": "38061f77-8bc8-4609-b33d-676e58fa16ed",
+            "Value": {
+                "id": "bf7d3c75-68d4-4e61-bfbf-d36c76bab261",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/sd_explosion.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "3b0c2af0-803b-4a49-90e7-42ed863d4489",
             "Value": {
                 "id": "30eefc92-85b8-4501-97d6-d80a49539c19",
@@ -362,6 +400,25 @@
             }
         },
         {
+            "Key": "5daebc5e-003e-4860-9135-b67e17373269",
+            "Value": {
+                "id": "4257ad7e-92b2-499c-bc60-3ec1214a6501",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/sd_spaceAmbient.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "5e02d3bf-fced-48c2-afc2-2e74ff07724b",
             "Value": {
                 "id": "8fb196d4-21ca-46f4-b094-03fd9e89da12",
@@ -400,6 +457,25 @@
             }
         },
         {
+            "Key": "62608ec0-b9c4-4292-9101-7f1ac024eed3",
+            "Value": {
+                "id": "4c5c8bf8-cbe3-40a2-a61c-54181d83caff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sd_spaceAmbient\/sd_spaceAmbient.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "667e4364-0c66-4ff2-988a-7f891637a293",
             "Value": {
                 "id": "7d8446a0-7595-4af7-b871-b1486a11a74a",
@@ -435,6 +511,25 @@
                 ],
                 "resourcePath": "views\/6a3f792c-c01b-4e03-b2c9-679239e86687.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e45aae9-3139-48e0-912c-f7336b3a3d9b",
+            "Value": {
+                "id": "a70b9c07-4641-4690-a43d-740f8cb36b31",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sd_explosion\/sd_explosion.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -777,6 +872,25 @@
                 ],
                 "resourcePath": "objects\/obj_player\/obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb973cd0-5f0d-47bf-93c0-e38e41181588",
+            "Value": {
+                "id": "1d67e860-ebad-4adf-9e82-25b5d06a52a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sd_gunShot\/sd_gunShot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
