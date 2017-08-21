@@ -495,9 +495,9 @@
             }
         },
         {
-            "Key": "46f2552b-a2b3-4a13-b27f-6431f5c5e9ca",
+            "Key": "50c4532c-e3ca-4e05-be44-d5d24ef13321",
             "Value": {
-                "id": "bd588055-3d35-46d0-ab14-b6332d71a418",
+                "id": "5fec751e-db65-470d-958f-2ed77853c351",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -509,8 +509,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_menu_highScore\/spr_menu_highScore.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "sounds\/sd_mainMenu\/sd_mainMenu.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1195,6 +1195,44 @@
                 ],
                 "resourcePath": "objects\/obj_enemy_bullet\/obj_enemy_bullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e7557073-fc24-4dfd-8330-56c0c6a46aa4",
+            "Value": {
+                "id": "3da68dce-16bb-41b0-9d0f-a74648e55b1c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/Pop.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ea9af8fb-6c8e-4399-97fc-094f24b7c8cd",
+            "Value": {
+                "id": "2379e016-e88e-4661-9d72-118392f23589",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_icon\/spr_icon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
