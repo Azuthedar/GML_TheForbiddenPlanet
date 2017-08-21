@@ -4411,7 +4411,7 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4294967295
+                "Value": 4278190080
             },
             "hspeed": 0,
             "htiled": false,
@@ -4465,7 +4465,7 @@
             "inherit": false,
             "objId": "00000000-0000-0000-0000-000000000000",
             "vborder": 32,
-            "visible": true,
+            "visible": false,
             "vspeed": -1,
             "wport": 640,
             "wview": 640,
