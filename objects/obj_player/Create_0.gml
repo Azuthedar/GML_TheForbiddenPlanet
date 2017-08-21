@@ -6,7 +6,6 @@ shootCooldown = 20;
 remainingLives = 3;
 alpha = 1;
 global.playerDamage = 20;
-
 spd = 4;
 maxSpeed = 6;
 

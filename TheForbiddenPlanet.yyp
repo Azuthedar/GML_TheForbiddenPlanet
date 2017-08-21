@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "21a93861-dd20-45cd-a458-b56c49f9480f",
+            "Value": {
+                "id": "56524793-eb20-48f4-a095-a73ca91c08c9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "datafiles_yy\/sd_click.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "25d4a65e-45e2-40b4-8b7e-b4bf8bf89d9e",
             "Value": {
                 "id": "d9f1bd93-f4a8-448a-ad0f-7ea1fca2626f",
@@ -416,6 +435,25 @@
                 ],
                 "resourcePath": "objects\/obj_control\/obj_control.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3c6528aa-8972-4788-938e-419ea4fff898",
+            "Value": {
+                "id": "1b72c79e-a4f5-498a-b5e9-7a248201ef7c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/sd_click\/sd_click.yy",
+                "resourceType": "GMSound"
             }
         },
         {

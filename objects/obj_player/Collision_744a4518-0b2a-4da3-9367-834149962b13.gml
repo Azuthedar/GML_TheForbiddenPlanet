@@ -2,9 +2,9 @@
 // You can write your code in this editor
 if (flashing == false)
 {
-	global.intensity = 3;
 	instance_create_layer(x, y, "Instances", obj_screenShake);
-	audio_play_sound(sd_hit, 1, false);
+	instance_create_layer(x, y, "Instances", obj_explosion);
+	audio_play_sound(sd_explosion, 0, false);
 	instance_destroy(obj_enemy_bullet);
 	remainingLives--;
 	x = room_width / 2;
@@ -15,8 +15,6 @@ if (flashing == false)
 }
 if (remainingLives == 0 && instance_exists(obj_player))
 {
-	instance_create_layer(x, y, "Instances", obj_explosion);
 	global.scr = global.scr * global.enemiesKilled;
-	instance_destroy();
-	alarm[3] = 2 * room_speed;	
+	room_goto(rm_mainMenu);
 }
