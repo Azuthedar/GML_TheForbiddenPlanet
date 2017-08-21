@@ -15,6 +15,7 @@ if (flashing == false)
 }
 if (remainingLives == 0 && instance_exists(obj_player))
 {
-	global.scr = global.scr * global.enemiesKilled;
+	if (global.highScore < global.scr * global.enemiesKilled)
+		scr_saveHighscore();
 	room_goto(rm_mainMenu);
 }

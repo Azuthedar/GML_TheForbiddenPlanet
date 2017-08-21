@@ -3,3 +3,4 @@
 
 image_speed = 1;
 text = "START";
+x = room_width / 2;

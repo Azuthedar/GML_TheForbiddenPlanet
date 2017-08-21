@@ -108,7 +108,7 @@
         "55b2a4e8-2b73-4312-ae4f-94b86f62d1cc",
         "37ac13d4-d40c-4201-8424-131686f3e6b9",
         "5d804060-ed52-48d7-b294-a5856525f8a1",
-        "bf39583f-164f-4471-8b99-ea2846dcb5a9"
+        "11765d07-172e-4557-b8d2-fab9b80e1e7d"
     ],
     "layers": [
         {
@@ -2495,7 +2495,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_55D68280",
-                    "x": 160,
+                    "x": 288,
                     "y": 832,
                     "IsDnD": false,
                     "colour": {
@@ -2511,16 +2511,16 @@
                     "scaleY": 1
                 },
                 {
-                    "id": "bf39583f-164f-4471-8b99-ea2846dcb5a9",
+                    "id": "11765d07-172e-4557-b8d2-fab9b80e1e7d",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_FD3E7D1",
-                    "x": 480,
-                    "y": 832,
+                    "name": "inst_732D8EDB",
+                    "x": 288,
+                    "y": 928,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -2528,8 +2528,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_FD3E7D1",
-                    "objId": "e680d509-5659-4c09-9d35-4d003c75c863",
+                    "name_with_no_file_rename": "inst_732D8EDB",
+                    "objId": "b41f7404-ac7d-4d13-a8b2-e5134b725302",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1

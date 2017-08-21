@@ -6,7 +6,7 @@ keyDown = keyboard_check(vk_down);
 keyLeft = keyboard_check(vk_left);
 keyRight = keyboard_check(vk_right);
 keySpace = keyboard_check(vk_space);
-
+keyEscape = keyboard_check_pressed(vk_escape);
 
 if (keyUp)
 	vspeed -= acceleration;
@@ -23,10 +23,12 @@ if (keySpace && alarm[0] == -1)
 	audio_play_sound(sd_gunShot, 0, false);
 	alarm[0] = shootCooldown;
 }
-if (keyboard_check_pressed(ord("X")))
-	game_end();
-if (keyboard_check_pressed(ord("R")))
-	game_restart();
+if (keyEscape)
+{
+	if (global.highScore < global.scr * global.enemiesKilled)
+		scr_saveHighscore();
+	room_goto(rm_mainMenu);
+}
 
 speed = min(speed, maxSpeed);
 if (x < 32)
