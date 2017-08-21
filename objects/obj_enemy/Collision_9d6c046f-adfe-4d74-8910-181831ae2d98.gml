@@ -18,6 +18,8 @@ if (hit == false)
 }
 if (life <= 0)
 {
+	global.intensity = 2;
+	instance_create_layer(x, y, "Instances", obj_screenShake);
 	instance_create_layer(x, y, "Instances", obj_explosion);
 	audio_play_sound(sd_explosion, 1, false);
 	instance_destroy();
