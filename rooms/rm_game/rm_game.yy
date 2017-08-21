@@ -4465,7 +4465,7 @@
             "inherit": false,
             "objId": "00000000-0000-0000-0000-000000000000",
             "vborder": 32,
-            "visible": false,
+            "visible": true,
             "vspeed": -1,
             "wport": 640,
             "wview": 640,
