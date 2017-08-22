@@ -2,6 +2,7 @@
 // You can write your code in this editor
 global.scr = 0;
 global.enemiesKilled = 0;
+global.intensity = 3;
 shootCooldown = 20;
 remainingLives = 3;
 alpha = 1;

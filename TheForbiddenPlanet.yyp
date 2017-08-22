@@ -514,9 +514,9 @@
             }
         },
         {
-            "Key": "5b40d000-c0eb-4752-a648-8ccf0d41bdbd",
+            "Key": "5bf7b4d6-86e0-4df0-b67e-0f0a885cf75d",
             "Value": {
-                "id": "67046fc1-f386-484f-97a2-d16650f4d394",
+                "id": "069e0d1a-fe34-4d8c-8764-50e2697a4a87",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -776,6 +776,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_stars_menu\/obj_stars_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "864135e9-db10-4b27-9f23-62e93ff9753c",
+            "Value": {
+                "id": "a89e7f31-250b-4426-962f-e17b413ac9b9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_keyBindings\/obj_keyBindings.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1198,6 +1217,25 @@
             }
         },
         {
+            "Key": "df480baa-febb-438d-b71d-fe1ef88c6c7d",
+            "Value": {
+                "id": "9c66fc62-9938-4691-8b91-891177b243f2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_screenShake\/scr_screenShake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e01a718c-85ff-4852-a59a-76eadaf18647",
             "Value": {
                 "id": "bdfbaa41-d463-4d29-8aea-25956994a109",
@@ -1409,7 +1447,8 @@
     ],
     "script_order": [
         "3dcfdbb6-6847-4e8e-8e9b-b797b4272353",
-        "23d82a98-5dd1-41e1-9d40-a59aede83d49"
+        "23d82a98-5dd1-41e1-9d40-a59aede83d49",
+        "df480baa-febb-438d-b71d-fe1ef88c6c7d"
     ],
     "tutorial": ""
 }

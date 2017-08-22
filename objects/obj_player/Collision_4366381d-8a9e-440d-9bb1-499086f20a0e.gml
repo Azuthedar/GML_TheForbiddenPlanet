@@ -2,6 +2,7 @@
 // You can write your code in this editor
 if (flashing == false)
 {
+	global.intensity = 10;
 	instance_create_layer(x, y, "Instances", obj_screenShake);
 	instance_create_layer(x, y, "Instances", obj_explosion);
 	audio_play_sound(sd_explosion, 0, false);
